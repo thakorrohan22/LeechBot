@@ -8,7 +8,7 @@ A Torrent, youtube-dl Leecher, and Uploader!
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/LeechBot)
 ###### - ~~~all that glitters is (not) gold~~~
 
 ### The Legacy Way
